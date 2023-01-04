@@ -1,0 +1,53 @@
+body{
+    display: flex;
+    position: center;
+    margin-top: 10%;
+    background-color: rgb(47, 72, 72);
+  }
+  .squarebutton{
+    width: 20px;
+    padding: 10px 15px;
+    background: #fff;
+    font-size: 14px;
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+    border-radius: 10px;
+    margin: 5px;
+  }
+  
+  .clearbutton{
+    background: red;
+    width: 190px;
+    height: 50px;
+    margin: 5px;
+    padding: 10px 0;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  .displaybox{
+    
+    margin: 5px;
+    width: 190px;
+    height: 45px;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: right;
+    font-weight: bold;
+    padding: 0 5px 0 0;
+    
+  }
+  
+  .container{
+    background: #000;
+    padding: 5px;
+    width: 220px;
+    border-radius: 10px;
+    margin-left: 45%;
+    font-size: 25px;
+    text-align: center;
+  }
+  
